@@ -1,0 +1,67 @@
+.vertical-timeline-element-content:hover {
+    transform: translateY(-5px);
+    /* Lift effect */
+    transition: transform 0.3s ease-out;
+}
+
+.vertical-timeline-element-content {
+    border-top: 5px solid;
+}
+
+.vertical-timeline-element-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.vertical-timeline-element-subtitle {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.vertical-timeline-element p {
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.vertical-timeline-element-content {
+    transition: all 0.3s ease-in-out;
+}
+
+.vertical-timeline-element-content:hover {
+    background-color: rgba(0, 188, 212, 0.1);
+    /* Light hover background */
+    box-shadow: 0 8px 16px rgba(0, 188, 212, 0.3);
+}
+
+.vertical-timeline-element-content .vertical-timeline-element-icon {
+    transition: background-color 0.3s ease;
+}
+
+.vertical-timeline-element-content:hover .vertical-timeline-element-icon {
+    background-color: #004d40;
+}
+
+/* Present Timeline Element Styling */
+.vertical-timeline-element.present {
+    animation: pulse 1.5s infinite;
+    /* Add a subtle pulse effect for the present element */
+}
+
+.vertical-timeline-element vertical-timeline-element--no-children {
+    display: none;
+}
+
+/* Pulse effect */
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

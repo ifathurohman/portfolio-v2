@@ -1,0 +1,548 @@
+[
+  {
+    "title": "Edustore",
+    "description": "Mini E-Commerce Edustore",
+    "image": "/projectImages/edustore/homepage.jpg",
+    "image2": "/projectImages/edustore/fullscreen-homepage.png",
+    "image3": [
+      {
+        "original": "/projectImages/edustore/homepage.jpg",
+        "thumbnail": "/projectImages/edustore/homepage.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/category.jpg",
+        "thumbnail": "/projectImages/edustore/category.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/product.jpg",
+        "thumbnail": "/projectImages/edustore/product.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/product1.jpg",
+        "thumbnail": "/projectImages/edustore/product1.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/cart.jpg",
+        "thumbnail": "/projectImages/edustore/cart.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/history-order.jpg",
+        "thumbnail": "/projectImages/edustore/history-order.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/payment.jpg",
+        "thumbnail": "/projectImages/edustore/payment.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/payment-success.jpg",
+        "thumbnail": "/projectImages/edustore/payment-success.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/order-history.jpg",
+        "thumbnail": "/projectImages/edustore/order-history.jpg"
+      },
+      {
+        "original": "/projectImages/edustore/invoice.jpg",
+        "thumbnail": "/projectImages/edustore/invoice.jpg"
+      }
+    ],
+    "body": "A mini E-Commerce was created to fulfill graduation requirements, where users could register, add products, make purchases, complete payments, view order history, and access invoices",
+    "technologies": [
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "ReactJS",
+      "Tailwind",
+      "Redux",
+      "Mongoose",
+      "Git",
+      "Payment Gateway",
+      "Web Storage",
+      "Docker"
+    ],
+    "github": "https://github.com/ifathurohman/tugas-react",
+    "repo": "tugas-react",
+    "deployed": "#",
+    "bgcolor": "#CA8A04",
+    "id": "1"
+  },
+  {
+    "title": "Amartha",
+    "description": "UI/UX Challenge",
+    "image": "/projectImages/amartha/Desktop - 1.png",
+    "image2": "/projectImages/amartha/color.png",
+    "image3": [
+      {
+        "original": "/projectImages/amartha/Desktop - 1.png",
+        "thumbnail": "/projectImages/amartha/Desktop - 1.png"
+      },
+      {
+        "original": "/projectImages/amartha/color.png",
+        "thumbnail": "/projectImages/amartha/color.png"
+      },
+      {
+        "original": "/projectImages/amartha/card.png",
+        "thumbnail": "/projectImages/amartha/card.png"
+      },
+      {
+        "original": "/projectImages/amartha/Button.png",
+        "thumbnail": "/projectImages/amartha/Button.png"
+      },
+      {
+        "original": "/projectImages/amartha/1.jpg",
+        "thumbnail": "/projectImages/amartha/1.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/2.jpg",
+        "thumbnail": "/projectImages/amartha/2.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/3.jpg",
+        "thumbnail": "/projectImages/amartha/3.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/4.jpg",
+        "thumbnail": "/projectImages/amartha/4.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/5.jpg",
+        "thumbnail": "/projectImages/amartha/5.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/6.jpg",
+        "thumbnail": "/projectImages/amartha/6.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/7.jpg",
+        "thumbnail": "/projectImages/amartha/7.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/8.jpg",
+        "thumbnail": "/projectImages/amartha/8.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/9.jpg",
+        "thumbnail": "/projectImages/amartha/9.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/10.jpg",
+        "thumbnail": "/projectImages/amartha/10.jpg"
+      },
+      {
+        "original": "/projectImages/amartha/11.jpg",
+        "thumbnail": "/projectImages/amartha/11.jpg"
+      }
+    ],
+    "technologies": [
+      "Figma",
+      "Adobe Photoshop",
+      "Google Docs",
+      "Google Sheets",
+      "Medium"
+    ],
+    "body": "It was designed to address the challenge as a requirement for graduation by creating a gold investment application design with gamification features using design thinking as our design process approach",
+    "github": "#",
+    "repo": "#",
+    "deployed": "https://www.figma.com/file/bHlcCzFgNTNx4uhgYdLmGE/UIX-A3---Kelompok-5?type=design&node-id=49-1115&mode=design",
+    "bgcolor": "#9747FF",
+    "id": "2"
+  },
+  {
+    "title": "EdatabaseCV",
+    "description": "E-Database-CV",
+    "image": "/projectImages/edatabasecv/1.png",
+    "image2": "/projectImages/edatabasecv/1.png",
+    "image3": [
+      {
+        "original": "/projectImages/edatabasecv/1.png",
+        "thumbnail": "/projectImages/edatabasecv/1.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/2.png",
+        "thumbnail": "/projectImages/edatabasecv/2.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/3.png",
+        "thumbnail": "/projectImages/edatabasecv/3.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/4.png",
+        "thumbnail": "/projectImages/edatabasecv/4.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/5.png",
+        "thumbnail": "/projectImages/edatabasecv/5.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/6.png",
+        "thumbnail": "/projectImages/edatabasecv/6.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/7.png",
+        "thumbnail": "/projectImages/edatabasecv/7.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/8.png",
+        "thumbnail": "/projectImages/edatabasecv/8.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/9.png",
+        "thumbnail": "/projectImages/edatabasecv/9.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/10.png",
+        "thumbnail": "/projectImages/edatabasecv/10.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/11.png",
+        "thumbnail": "/projectImages/edatabasecv/11.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/12.png",
+        "thumbnail": "/projectImages/edatabasecv/12.png"
+      },
+      {
+        "original": "/projectImages/edatabasecv/13.png",
+        "thumbnail": "/projectImages/edatabasecv/13.png"
+      }
+    ],
+    "technologies": [
+      "PHP Codeigniter",
+      "Css",
+      "Javascript",
+      "MySQL",
+      "Microsoft Office Word",
+      "Microsoft Office Excel"
+    ],
+    "body": "It was designed to monitor employees, monitor tender archives, and automatically generate CVs based on employee data according to templates provided by the client in .docx format",
+    "github": "https://github.com/ifathurohman/e-database-cv",
+    "repo": "e-database-cv",
+    "deployed": "https://cecdatabasecv.com/",
+    "bgcolor": "rgba(47,128,237,1)",
+    "id": "3"
+  },
+  {
+    "title": "Salesforce",
+    "description": "Salesforce",
+    "image": "/projectImages/salesforce/Screenshot_1.png",
+    "image2": "/projectImages/salesforce/Screenshot_1.png",
+    "image3": [
+      {
+        "original": "/projectImages/salesforce/Screenshot_1.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_1.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_2.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_2.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_3.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_3.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_4.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_4.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_5.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_5.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_6.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_6.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_7.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_7.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_8.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_8.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_9.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_9.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_9.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_9.png"
+      },
+      {
+        "original": "/projectImages/salesforce/Screenshot_10.png",
+        "thumbnail": "/projectImages/salesforce/Screenshot_10.png"
+      }
+    ],
+    "technologies": [
+      "PHP Codeigniter",
+      "Css",
+      "Javascript",
+      "Bootsrap 4",
+      "SQL Server",
+      "Microsoft Office Excel",
+      "RestAPI"
+    ],
+    "body": "It was designed to meet the vendor's needs in reconciling partner data, allowing them to monitor matching data, completed reconciliations, mismatched data, and unrecognized data. ",
+    "github": "https://github.com/ifathurohman/salesforce20",
+    "repo": "salesforce20",
+    "deployed": "#",
+    "bgcolor": "#fe967d",
+    "id": "4"
+  },
+  {
+    "title": "Rumah RUTH",
+    "description": "Rumah RUTH",
+    "image": "/projectImages/rumahruth/Screenshot_1.png",
+    "image2": "/projectImages/rumahruth/Screenshot_1.png",
+    "image3": [
+      {
+        "original": "/projectImages/rumahruth/Screenshot_1.png",
+        "thumbnail": "/projectImages/rumahruth/Screenshot_1.png"
+      },
+      {
+        "original": "/projectImages/rumahruth/Screenshot_2.png",
+        "thumbnail": "/projectImages/rumahruth/Screenshot_2.png"
+      },
+      {
+        "original": "/projectImages/rumahruth/Screenshot_3.png",
+        "thumbnail": "/projectImages/rumahruth/Screenshot_3.png"
+      },
+      {
+        "original": "/projectImages/rumahruth/Screenshot_4.png",
+        "thumbnail": "/projectImages/rumahruth/Screenshot_4.png"
+      }
+    ],
+    "technologies": [
+      "PHP Codeigniter",
+      "Css",
+      "Javascript",
+      "Bootsrap 4",
+      "MySQL",
+      "Google Analytics"
+    ],
+    "body": "It was created to facilitate obtaining information about the Yayasan Rumah Tumbuh Harapan, such as services and donations.",
+    "github": "https://github.com/ifathurohman/qa_RR",
+    "repo": "qa_RR",
+    "deployed": "https://rumahruth.or.id/",
+    "bgcolor": "#0bb6c2",
+    "id": "5"
+  },
+  {
+    "title": "Pipesys",
+    "description": "Pipesys",
+    "image": "/projectImages/pipesys/Screenshot_1.png",
+    "image2": "/projectImages/pipesys/Screenshot_1.png",
+    "image3": [
+      {
+        "original": "/projectImages/pipesys/Screenshot_1.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_1.png"
+      },
+      {
+        "original": "/projectImages/pipesys/Screenshot_2.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_2.png"
+      },
+      {
+        "original": "/projectImages/pipesys/Screenshot_3.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_3.png"
+      },
+      {
+        "original": "/projectImages/pipesys/Screenshot_4.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_4.png"
+      },
+      {
+        "original": "/projectImages/pipesys/Screenshot_5.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_5.png"
+      },
+      {
+        "original": "/projectImages/pipesys/Screenshot_6.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_6.png"
+      },
+      {
+        "original": "/projectImages/pipesys/Screenshot_7.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_7.png"
+      },
+      {
+        "original": "/projectImages/pipesys/Screenshot_8.png",
+        "thumbnail": "/projectImages/pipesys/Screenshot_8.png"
+      }
+    ],
+    "technologies": [
+      "PHP Codeigniter",
+      "Css",
+      "Javascript",
+      "Bootsrap 4",
+      "MySQL",
+      "Google Analytics"
+    ],
+    "body": "It was created to assist in the business process of purchase, sales, inventory, and accounting transactions. It can be used for various fields of business transactions, such as retail, restaurants, cafes, and others.",
+    "github": "https://github.com/ifathurohman/mini-ERP",
+    "repo": "mini-ERP",
+    "deployed": "https://pipesys.id/",
+    "bgcolor": "#233f7a",
+    "id": "6"
+  },
+  {
+    "title": "Timeline Management",
+    "description": "Timeline Management",
+    "image": "/projectImages/lcc/1.png",
+    "image2": "/projectImages/lcc/1.png",
+    "image3": [
+      {
+        "original": "/projectImages/lcc/1.png",
+        "thumbnail": "/projectImages/lcc/1.png"
+      },
+      {
+        "original": "/projectImages/lcc/2.png",
+        "thumbnail": "/projectImages/lcc/2.png"
+      },
+      {
+        "original": "/projectImages/lcc/3.png",
+        "thumbnail": "/projectImages/lcc/3.png"
+      },
+      {
+        "original": "/projectImages/lcc/4.png",
+        "thumbnail": "/projectImages/lcc/4.png"
+      },
+      {
+        "original": "/projectImages/lcc/5.png",
+        "thumbnail": "/projectImages/lcc/5.png"
+      },
+      {
+        "original": "/projectImages/lcc/6.png",
+        "thumbnail": "/projectImages/lcc/6.png"
+      },
+      {
+        "original": "/projectImages/lcc/7.png",
+        "thumbnail": "/projectImages/lcc/7.png"
+      },
+      {
+        "original": "/projectImages/lcc/8.png",
+        "thumbnail": "/projectImages/lcc/8.png"
+      }
+    ],
+    "technologies": [
+      "PHP Codeigniter",
+      "Css",
+      "Javascript",
+      "Bootsrap 4",
+      "MySQL"
+    ],
+    "body": "It was created to assist in managing tasks, employees, holidays, master panels, monitoring work schedules, and simulating the calculation of time required for tasks in an automotive workshop in Bandung.",
+    "github": "#",
+    "repo": "#",
+    "deployed": "#",
+    "bgcolor": "#9f2f35",
+    "id": "7"
+  },
+  {
+    "title": "SAP Bandung",
+    "description": "Company Profile SAP Bandung",
+    "image": "/projectImages/sap/Screenshot_1.png",
+    "image2": "/projectImages/sap/Screenshot_1.png",
+    "image3": [
+      {
+        "original": "/projectImages/sap/Screenshot_1.png",
+        "thumbnail": "/projectImages/sap/Screenshot_1.png"
+      },
+      {
+        "original": "/projectImages/sap/Screenshot_2.png",
+        "thumbnail": "/projectImages/sap/Screenshot_2.png"
+      },
+      {
+        "original": "/projectImages/sap/Screenshot_3.png",
+        "thumbnail": "/projectImages/sap/Screenshot_3.png"
+      },
+      {
+        "original": "/projectImages/sap/Screenshot_4.png",
+        "thumbnail": "/projectImages/sap/Screenshot_4.png"
+      },
+      {
+        "original": "/projectImages/sap/Screenshot_5.png",
+        "thumbnail": "/projectImages/sap/Screenshot_5.png"
+      },
+      {
+        "original": "/projectImages/sap/Screenshot_6.png",
+        "thumbnail": "/projectImages/sap/Screenshot_6.png"
+      }
+    ],
+    "technologies": [
+      "PHP Codeigniter",
+      "Css",
+      "Javascript",
+      "Bootsrap 4",
+      "MySQL",
+      "Google Analytics"
+    ],
+    "body": "It was created to display company information, such as a description, products or services offered, and company contact details.",
+    "github": "#",
+    "repo": "#",
+    "deployed": "https://www.sapbandung.com/",
+    "bgcolor": "#fab826",
+    "id": "8"
+  },
+  {
+    "title": "RC Electronic",
+    "description": "Company Profile RC Electronic",
+    "image": "/projectImages/rc/Screenshot_1.png",
+    "image2": "/projectImages/rc/Screenshot_1.png",
+    "image3": [
+      {
+        "original": "/projectImages/rc/Screenshot_1.png",
+        "thumbnail": "/projectImages/rc/Screenshot_1.png"
+      },
+      {
+        "original": "/projectImages/rc/Screenshot_2.png",
+        "thumbnail": "/projectImages/rc/Screenshot_2.png"
+      },
+      {
+        "original": "/projectImages/rc/Screenshot_3.png",
+        "thumbnail": "/projectImages/rc/Screenshot_3.png"
+      },
+      {
+        "original": "/projectImages/rc/Screenshot_4.png",
+        "thumbnail": "/projectImages/rc/Screenshot_4.png"
+      },
+      {
+        "original": "/projectImages/rc/Screenshot_5.png",
+        "thumbnail": "/projectImages/rc/Screenshot_5.png"
+      },
+      {
+        "original": "/projectImages/rc/1.jpg",
+        "thumbnail": "/projectImages/rc/1.jpg"
+      },
+      {
+        "original": "/projectImages/rc/2.jpg",
+        "thumbnail": "/projectImages/rc/2.jpg"
+      },
+      {
+        "original": "/projectImages/rc/3.jpg",
+        "thumbnail": "/projectImages/rc/3.jpg"
+      },
+      {
+        "original": "/projectImages/rc/4.jpg",
+        "thumbnail": "/projectImages/rc/4.jpg"
+      },
+      {
+        "original": "/projectImages/rc/5.jpg",
+        "thumbnail": "/projectImages/rc/5.jpg"
+      },
+      {
+        "original": "/projectImages/rc/6.jpg",
+        "thumbnail": "/projectImages/rc/6.jpg"
+      }
+    ],
+    "technologies": [
+      "PHP Codeigniter",
+      "Css",
+      "Javascript",
+      "Bootsrap 4",
+      "MySQL",
+      "Google Analytics"
+    ],
+    "body": "It was created to display company information, such as a description, products or services offered, and company contact details.",
+    "github": "#",
+    "repo": "#",
+    "deployed": "https://rcelectronic.co.id/",
+    "bgcolor": "#0c4769",
+    "id": "9"
+  }
+]
